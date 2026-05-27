@@ -11,7 +11,7 @@ I'm a **Software Engineer** specializing in **MLOps and High-Performance Infrast
 ![Gin](https://img.shields.io/badge/Gin--Gonic-009688?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-learning-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Infrastructure & GitOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
